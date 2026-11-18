@@ -62,7 +62,7 @@ plt.show()
 
 
 ## output
-Expected Output
+
 1. Histogram – Age Distribution
 <img width="562" height="455" alt="image" src="https://github.com/user-attachments/assets/d9c4c3a3-e2d0-463d-990e-c59b107187e4" />
 
